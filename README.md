@@ -19,6 +19,13 @@
 - Trained Logistic Regression model
 - Achieved 74.80% accuracy
 - Tools: pandas, scikit-learn, seaborn
+  ### ✅ Task 4 — Insurance Claim Amount Prediction
+- Predicted insurance charges using Linear Regression
+- Visualized impact of BMI, age and smoking on charges
+- Achieved R² score of 0.78 (78% accuracy)
+- MAE: $4,186 | RMSE: $5,799
+- Smoking found to be biggest cost factor (+$23,647)
+- Tools: pandas, scikit-learn, matplotlib, seaborn
 
 ---
 
